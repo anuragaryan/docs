@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "0c6477aab4004251513e541ed3afc3ed997a385d",
+  "prompts": {},
+  "humans": {
+    "h_dea0103f7c5e58": {
+      "author": "Anurag Aryan <anurag.aryan2011@gmail.com>"
+    }
+  }
+}
