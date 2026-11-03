@@ -1,0 +1,14 @@
+md/_sidebar.md
+  h_dea0103f7c5e58 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a6a29dfb56a59d93f7773d33e35dad17998fdcae",
+  "prompts": {},
+  "humans": {
+    "h_dea0103f7c5e58": {
+      "author": "Anurag Aryan <anurag.aryan2011@gmail.com>"
+    }
+  }
+}
