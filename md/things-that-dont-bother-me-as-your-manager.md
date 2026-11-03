@@ -1,4 +1,4 @@
-# 13 Things That Don't Bother Me as Your Manager
+# Things That Don't Bother Me as Your Manager
 
 
 ### 1. Leaving a meeting that isn't useful to you
