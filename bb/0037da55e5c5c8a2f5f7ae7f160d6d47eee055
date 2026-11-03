@@ -1,0 +1,18 @@
+md/README.md
+  h_dea0103f7c5e58 1
+md/index.html
+  h_dea0103f7c5e58 1-22
+md/_sidebar.md
+  h_dea0103f7c5e58 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "bb0037da55e5c5c8a2f5f7ae7f160d6d47eee055",
+  "prompts": {},
+  "humans": {
+    "h_dea0103f7c5e58": {
+      "author": "Anurag Aryan <anurag.aryan2011@gmail.com>"
+    }
+  }
+}
